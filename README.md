@@ -1,2 +1,2 @@
-# multiclassifier
-Developing a multi-classifier model to assign the items to their corresponding category. 
+# multilabel
+Developing a multi-label classification model to assign the items to their corresponding category. 
